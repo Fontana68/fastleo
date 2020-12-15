@@ -1,0 +1,16 @@
+astroid
+click
+colorama
+fastapi
+gunicorn
+h11
+isort
+lazy-object-proxy
+mccabe
+pydantic
+pylint
+six
+starlette
+uvicorn
+websockets
+wrapt
